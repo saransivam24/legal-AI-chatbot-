@@ -1,0 +1,76 @@
+================================================================================
+FIRST INFORMATION REPORT & CASE RECORD DOSSIER
+STATE OF TAMIL NADU POLICE DEPARTMENT
+================================================================================
+1. District: Chennai City              Police Station: Anna Nagar (K-4)
+2. Crime No: 42/2023                   Date & Time of FIR: 14-Aug-2023, 11:30 hrs
+3. Acts & Sections Registered:
+   - Indian Penal Code (IPC) Section 420 (Cheating and dishonestly inducing delivery of property)
+   - Indian Penal Code (IPC) Section 406 (Punishment for criminal breach of trust)
+   - Code of Criminal Procedure (CrPC) Section 41A (Notice of appearance before police)
+
+--------------------------------------------------------------------------------
+PART I: COMPLAINANT STATEMENT (Shri M. Sundaram, Age 48)
+--------------------------------------------------------------------------------
+"I am the Managing Director of Sri Balaji Garments Pvt Ltd, Anna Nagar. On 12-June-2023, 
+I entered into a commercial agreement with the Accused, Rajesh Kumar (Proprietor of 
+Precision Machines India), for the supply of two automated industrial textile printing 
+machines. The total contract value was Rs. 25,00,000/-.
+
+As agreed, on 15-June-2023, I transferred an advance payment of Rs. 15,00,000/- (Rupees 
+Fifteen Lakhs only) via RTGS into the account of Precision Machines India at HDFC Bank. 
+The Accused assured delivery within 30 days, on or before 15-July-2023.
+
+However, the Accused failed to deliver the machinery. When pressed for delivery on 
+10-August-2023, the Accused issued a cheque for Rs. 5,00,000/- bearing No. 892110 
+drawn on ICICI Bank, which was returned dishonoured due to 'Insufficient Funds'. 
+The Accused has dishonestly misappropriated my funds. 
+
+Meeting Details: The crucial dispute meeting was held on 10-August-2023 at 10:30 AM 
+in my corporate office at Anna Nagar."
+
+--------------------------------------------------------------------------------
+PART II: ARREST & INVESTIGATION MEMORANDUM (Sub-Inspector K. Velmurugan)
+--------------------------------------------------------------------------------
+1. Date & Time of Apprehension: 16-Aug-2023 at 18:30 hrs at Central Railway Station.
+2. Compliance of Procedure: Notice under Section 41A CrPC was tendered. Accused joined 
+   investigation and surrendered his passport and bank passbooks.
+3. Criminal Antecedents Record: Verification conducted with State Crime Records 
+   Bureau (SCRB) and Anna Nagar Crime Register reveals ZERO prior criminal cases, 
+   convictions, or pending charges against the Accused.
+4. Residence & Roots in Society: Permanent resident of No. 14, 2nd Avenue, Anna Nagar, 
+   Chennai. Residing with wife Smt. Kavitha and two minor school-going children.
+
+--------------------------------------------------------------------------------
+PART III: WITNESS STATEMENT (Suresh Natarajan, Senior Accountant)
+--------------------------------------------------------------------------------
+(Statement recorded under Section 161 CrPC)
+"I have been working as Senior Accountant at Precision Machines India for 6 years. 
+I am fully aware of the agreement with Sri Balaji Garments. Rajesh Kumar had already 
+remitted USD 16,500 to the German manufacturer 'Heidelberg Tech GMBH' for procuring 
+the printing parts on 22-June-2023. 
+
+The shipment arrived at Chennai Port on 28-July-2023 but was detained under customs 
+clearance scrutiny due to revised bill-of-entry regulations. There was no dishonest 
+intention or misappropriation; it was purely an unexpected supply chain delay. 
+
+Contradiction on Meeting: The meeting between Rajesh Kumar and M. Sundaram took place 
+on 10-August-2023 at 03:00 PM (15:00 hrs) in the factory premises, and NOT at 10:30 AM."
+
+--------------------------------------------------------------------------------
+PART IV: APPLICABLE LEGAL PROVISIONS & CASE PRECEDENTS
+--------------------------------------------------------------------------------
+1. Indian Penal Code Section 420: Requires dishonest intention at the inception 
+   of the contract (Mens Rea). Mere failure to fulfill a promise or delayed supply 
+   does not constitute cheating without fraudulent inducement from day one.
+   - Precedent: Satishchandra Ratanlal Shah v. State of Gujarat (2019) 9 SCC 148 
+     (Supreme Court held breach of commercial contract does not equal criminal cheating).
+
+2. Indian Penal Code Section 406: Entrustment and dishonest conversion to own use. 
+   Where money is paid as a contractual advance, it is a debtor-creditor relationship.
+
+3. Code of Criminal Procedure Section 437 / Section 480 BNSS: Principles for granting bail:
+   - Offence punishable with imprisonment under 7 years.
+   - No flight risk or tampering with evidence.
+   - Mandatory compliance of Arnesh Kumar v. State of Bihar (2014) 8 SCC 273 guidelines.
+================================================================================
